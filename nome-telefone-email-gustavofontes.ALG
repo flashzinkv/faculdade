@@ -1,0 +1,24 @@
+Algoritmo "nome-telefone-email"
+// Autor(a)    : Gustavo Fontes
+// Data atual  : 07/04/2025
+Var
+   nome,email : caracter
+   telefone : inteiro
+
+Inicio
+      escreva ("Nome: ")
+      leia (nome)
+      
+      escreva ("Email: ")
+      leia (email)
+      
+      escreva ("Telefone: ")
+      leia (telefone)
+      
+      escreva ("Meu nome: ",nome)
+      
+      escreva ("Meu email: ",email)
+      
+      escreva ("Meu telefone", telefone)
+
+Fimalgoritmo
